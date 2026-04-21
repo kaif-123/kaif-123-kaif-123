@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/md-kaif-5888bb304">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+  <a href="https://leetcode.com/u/kaifuu/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://hackerrank.com/YOUR_HR">
+  <a href="https://www.hackerrank.com/profile/kaifmd197">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=kaif-123&color=blueviolet&style=flat"/>
@@ -25,8 +25,8 @@
 - 🎓 3rd-year CSE student at **LPU** with a **Data Science minor**
 - 🔭 Currently building **LocalFix** — a location-based home services marketplace
 - 💡 Passionate about full-stack development, AI/ML, and building real-world products
-- 🏆 **250+ LeetCode problems** solved · **5-star HackerRank** in Java
-- 📫 Reach me at: **your@email.com**
+- 🏆 **250+ LeetCode problems** solved · **3-star HackerRank** in Java
+- 📫 Reach me at: kaifmd197@gmail.com**
 
 ---
 
