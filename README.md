@@ -136,3 +136,9 @@ While (!placed) {
   <i>⭐ Star a repo if you found it useful — it motivates me to keep building!</i>
 </p>
 ## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaif-123/kaif-123/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaif-123/kaif-123/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kaif-123/kaif-123/output/github-contribution-grid-snake.svg"/>
+</picture>
